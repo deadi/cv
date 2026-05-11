@@ -57,12 +57,12 @@
       "Troubleshooting"
     ],
     "languages_scripting": ["SQL", "PowerShell", "Bash", "Python"],
-    "os": ["Windows", "Ubuntu Server", "Ubuntu", "WSL", "Raspberry Pi OS", "macOS"],
-    "monitoring_observability": ["Prometheus", "Grafana", "Loki"],
+    "os": ["Windows", "Ubuntu Server", "Ubuntu", "ArchLinux", "WSL", "Raspberry Pi OS", "macOS"],
+    "monitoring_observability": ["Prometheus", "Grafana", "Loki", "Alloy"],
     "networking_security": ["OPNsense", "WireGuard", "Twingate", "Traefik", "CrowdSec", "Pi-hole"],
-    "devops_tools": ["Docker Compose", "Git"],
-    "linux_administration": ["systemd", "LVM", "SSH"],
-    "self_hosted_cloud": ["Nextcloud", "MEGAcmd", "immich"]
+    "devops_tools": ["Docker Compose", "Git", "Neovim", ".env"],
+    "linux_administration": ["systemd", "LVM", "RAID5", "SSH", "tmux"],
+    "self_hosted_cloud": ["Nextcloud", "MEGAcmd", "immich", "Home Assistant", "cubeSQL"]
   },
   "experience": [
     {
@@ -72,7 +72,7 @@
       "start": "2023-11",
       "end": null,
       "highlights": [
-        "Verantwortung des technischen Betriebs der Verwaltungssoftware und Webportalen sowie Koordination des Releasetestings. Troubleshooting und Incident-Analyse von Programmfehlern des Softwareherstellers im 1st/2nd Level Support. Analyse und Dokumentation der Produktiven Umgebung mit Services. Planung und Koordinierung einer Testumgebung. Technische Koordination mit Partnern von SOAP nach REST Schnittstellen. Entwicklung eines LogSearchTools in PowerShell für eine zentralisierte Analyse von mehreren Windows-Logverzeichnissen."
+        "Verantwortung des technischen Betriebs der Verwaltungssoftware und Webportalen sowie Koordination des Releasetestings. Troubleshooting, Workarounds und Incident-Analyse von Programmfehlern des Softwareherstellers im 1st/2nd Level Support. Analyse und Dokumentation der Produktiven Umgebung, API-Endpunkten und Services. Planung und Konfiguration einer Testumgebung. Technische Koordination mit Partnern von SOAP nach REST Schnittstellen. Entwicklung eines LogSearchTools und Monitoring-Skripten in PowerShell für eine zentralisierte Analyse von mehreren Windows-Logverzeichnissen."
       ],
       "tech": ["SQL", "REST", "PowerShell", "VBA"]
     },
@@ -103,7 +103,7 @@
       "position": "Musiker und Sound Design",
       "domain": ["Elektronische Musik"],
       "start": "2015-01",
-      "end": "2025-12",
+      "end": null,
       "highlights": [
         "Als Musiker mit Konzerttätigkeit von 20–30 Events pro Jahr im In- und Ausland sowie als Tonträger-Produzent in Mix und Mastering mit eigenem Studio-Betrieb. Tillmann Ostendarp (Schlagzeuger der Band 'Faber' aka DJ Real Madrid) und ich arbeiteten in dieser Zeit sehr eng zusammen. Ausgewählte Produktionen/Performances: Luzern Theater 'Faber plays Zappa', Arthur Hnatek, Andy Guhl, Kerala Dust, Alois, Fusion Festival, Feel Festival, St. Galler Openair. Booking Agency: https://letzurich.com/skiclub-toggenburg"
       ],
@@ -125,7 +125,7 @@
       "start": "2021-11",
       "end": "2023-10",
       "highlights": [
-        "Betrieb, Service und Reparaturen von Audio/Video-Festinstallationen in öffentlichen Institutionen, Grossfirmen, Kirchen und Turnhallen. Gleichzeitig war ich verantwortlich für die Back-Office-/Personal-Buchhaltung, Jahresabschluss und Mehrwertsteuerrechnung"
+        "Verkauf, Betrieb, Service und Reparaturen von Audio/Video-Festinstallationen in öffentlichen Institutionen, Grossfirmen, Kirchen und Turnhallen. Gleichzeitig war ich verantwortlich für die Back-Office-/Personal-Buchhaltung, Jahresabschluss und Mehrwertsteuerrechnung"
       ],
       "tech": ["Elektronik", "Tontechnik", "Handwerk"]
     },
