@@ -68,10 +68,7 @@
       "Automatisierung",
       "Reporting",
       "Technischer Betrieb",
-      "Troubleshooting",
-      "Obsidian",
-      "Codex",
-      "Claude Code"
+      "Troubleshooting"
     ],
     "languages_scripting": ["SQL", "PowerShell", "Bash", "Python"],
     "os": ["Windows", "Ubuntu Server", "Ubuntu", "ArchLinux", "WSL", "Raspberry Pi OS", "macOS"],
@@ -79,7 +76,8 @@
     "networking_security": ["OPNsense", "WireGuard", "Twingate", "Traefik", "CrowdSec", "Pi-hole"],
     "homelab_tools": ["Docker Compose", "Git", "Neovim", ".env"],
     "linux_administration": ["systemd", "LVM", "RAID5", "SSH", "tmux"],
-    "self_hosted_cloud": ["Nextcloud", "MEGAcmd", "immich", "Home Assistant", "cubeSQL"]
+    "self_hosted_cloud": ["Nextcloud", "MEGAcmd", "immich", "Home Assistant", "cubeSQL"],
+    "AI_tools": ["Codex", "Claude Code", "Pico Claw", "Obsidian"]
   },
   "experience": [
     {
