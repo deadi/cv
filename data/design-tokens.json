@@ -1,0 +1,22 @@
+{
+    "font": {
+      "family": "Cascadia Code, Menlo, Monaco, Consolas, Courier New, monospace",
+      "size_base": "16px",
+      "size_fluid": "clamp(0.625rem, 1.25vw, 1rem)",
+      "line_height": 1.4
+    },
+    "color": {
+      "bg_primary": "rgb(26, 27, 38)",
+      "bg_secondary": "rgb(36, 40, 59)",
+      "text_primary": "rgb(192, 202, 245)",
+      "text_inverse": "rgb(255, 255, 255)",
+      "accent_primary": "rgb(122, 162, 247)",
+      "accent_secondary": "rgb(125, 207, 255)",
+      "success": "rgb(158, 206, 106)"
+    },
+    "space": {
+      "sm": "0.5em",
+      "md": "1em",
+      "lg": "2em"
+    }
+  }

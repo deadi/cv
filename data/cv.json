@@ -1,0 +1,230 @@
+{
+  "basics": {
+    "name": "Adrian Eberhard",
+    "role": "Applikationsbetreuer",
+    "location": "St. Gallen",
+    "summary": "Applikationsbetreuer mit Fokus auf Schnittstellen, Automatisierung, Release Management, Monitoring/Observability (1st / 2nd Level Support, Incident-Analyse, Reporting). Praxis mit SQL, PowerShell. Privates Self-Hosting im Linux/Container-Umfeld."
+  },
+  "education": [
+    {
+      "degree": "B. A. Art Education ZHdK",
+      "focus": "Ästhetische Bildung und Soziokultur mit Elektronik",
+      "grade": 5.5,
+      "start": "2010",
+      "end": "2013"
+    },
+    {
+      "degree": "Gymnasiale Ergänzungsprüfung",
+      "focus": "Physik",
+      "grade": 4.8,
+      "start": "2006",
+      "end": "2007"
+    },
+    {
+      "degree": "Bankfachmann EFZ Berufsmatura",
+      "grade": 5.1,
+      "start": "2003",
+      "end": "2005"
+    }
+  ],
+  "certificates": {
+    "languages": [
+      {
+        "name": "Cambridge Advanced English Certificate"
+      },
+      {
+        "name": "Diplôme d’Études en Langue Française A1-A2"
+      }
+    ],
+    "informatics": [
+      {
+        "name": "W3Schools Certified SQL Developer"
+      },
+      {
+        "name": "Schweizerisches Informatik Zertifikate Anwender"
+      }
+    ]
+  },
+  "skills": {
+    "core": [
+      "Applikationsbetrieb",
+      "Incident-/Problem-Analyse",
+      "Schnittstellenanalyse",
+      "Monitoring/Observability",
+      "Automatisierung",
+      "Reporting",
+      "Technischer Betrieb",
+      "Troubleshooting"
+    ],
+    "languages_scripting": ["SQL", "PowerShell", "Bash", "Python"],
+    "os": ["Windows", "Ubuntu Server", "Ubuntu", "WSL", "Raspberry Pi OS", "macOS"],
+    "monitoring_observability": ["Prometheus", "Grafana", "Loki"],
+    "networking_security": ["OPNsense", "WireGuard", "Twingate", "Traefik", "CrowdSec", "Pi-hole"],
+    "devops_tools": ["Docker Compose", "Git"],
+    "linux_administration": ["systemd", "LVM", "SSH"],
+    "self_hosted_cloud": ["Nextcloud", "MEGAcmd", "immich"]
+  },
+  "experience": [
+    {
+      "company": "Personalvorsorgestiftung der Ärzte und Tierärzte PAT-BVG, St. Gallen",
+      "position": "Applikationsbetreuer",
+      "domain": ["Informatik"],
+      "start": "2023-11",
+      "end": null,
+      "highlights": [
+        "Verantwortung des technischen Betriebs der Verwaltungssoftware und Webportalen sowie Koordination des Releasetestings. Troubleshooting und Incident-Analyse von Programmfehlern des Softwareherstellers im 1st/2nd Level Support. Analyse und Dokumentation der Produktiven Umgebung mit Services. Planung und Koordinierung einer Testumgebung. Technische Koordination mit Partnern von SOAP nach REST Schnittstellen. Entwicklung eines LogSearchTools in PowerShell für eine zentralisierte Analyse von mehreren Windows-Logverzeichnissen."
+      ],
+      "tech": ["SQL", "REST", "PowerShell", "VBA"]
+    },
+    {
+      "company": "Steinwerkstatt Roland Rüegg, Wattwil",
+      "position": "Treuhänder",
+      "domain": ["Administration"],
+      "start": "2016-01",
+      "end": null,
+      "highlights": [
+        "Für eine Einzelfirma erstelle ich wiederkehrend die Jahresbuchhaltung und die Steuerrechnung. Eine containerisierte Infrastruktur mit cubeSQL stellt die Datenbank für ein RDP Windows-Container mit Buchhaltungssoftware und Microsoft Office zur Verfügung."
+      ],
+      "tech": ["cubeSQL", "Docker Compose", "System Administration", "Applikationsbetrieb"]
+    },
+    {
+      "company": "Selbständig",
+      "position": "Freelance Techniker Medien/Ausstellung",
+      "domain": ["Technischer Betrieb"],
+      "start": "2012-01",
+      "end": null,
+      "highlights": [
+        "Für über 100 Ausstellungen diverser Kulturinstitutionen/Kuratoren setze ich die vielfältigsten Wünsche um. Diese reichen von interaktiver Medientechnik im Dauerbetrieb bis zum konstruktiven Holzhandwerk. Ausgewählte Auftraggeber sind: Verein Kunsthalle Zürich | Amt für Kultur, St. Gallen | Textilmuseum, St. Gallen | Verein Schloss Kyburg, Winterthur | LUMA Westbau, Zürich | Maia Hoffmann, Project 1049, Gstaad | Fotomuseum Winterthur"
+      ],
+      "tech": ["Python", "Raspberry Pi", "Medientechnik", "Elektronik", "Handwerk"]
+    },
+    {
+      "company": "Skiclub Toggenburg",
+      "position": "Musiker und Sound Design",
+      "domain": ["Elektronische Musik"],
+      "start": "2015-01",
+      "end": "2025-12",
+      "highlights": [
+        "Als Musiker mit Konzerttätigkeit von 20–30 Events pro Jahr im In- und Ausland sowie als Tonträger-Produzent in Mix und Mastering mit eigenem Studio-Betrieb. Tillmann Ostendarp (Schlagzeuger der Band 'Faber' aka DJ Real Madrid) und ich arbeiteten in dieser Zeit sehr eng zusammen. Ausgewählte Produktionen/Performances: Luzern Theater 'Faber plays Zappa', Arthur Hnatek, Andy Guhl, Kerala Dust, Alois, Fusion Festival, Feel Festival, St. Galler Openair. Booking Agency: https://letzurich.com/skiclub-toggenburg"
+      ],
+      "tech": ["Elektronik", "Akustik", "System Administration"]
+    },
+    {
+      "company": "Fotostiftung Schweiz, Winterthur",
+      "position": "Techniker Medien/Ausstellung",
+      "domain": ["Technischer Betrieb"],
+      "start": "2018-03",
+      "end": "2023-11",
+      "highlights": ["Konstruktion der Ausstellungsarchitektur, Medieninstallationen und Umsetzung der Beleuchtung"],
+      "tech": ["Raspberry Pi", "Elektronik", "Medientechnik", "Handwerk"]
+    },
+    {
+      "company": "R+R SonicDesign AG, St. Gallen",
+      "position": "Techniker AV-Installation/Service & Administration",
+      "domain": ["Technischer Betrieb", "Administration"],
+      "start": "2021-11",
+      "end": "2023-10",
+      "highlights": [
+        "Betrieb, Service und Reparaturen von Audio/Video-Festinstallationen in öffentlichen Institutionen, Grossfirmen, Kirchen und Turnhallen. Gleichzeitig war ich verantwortlich für die Back-Office-/Personal-Buchhaltung, Jahresabschluss und Mehrwertsteuerrechnung"
+      ],
+      "tech": ["Elektronik", "Tontechnik", "Handwerk"]
+    },
+    {
+      "company": "Kantonsschule Uster",
+      "position": "Fachlehrer technisches Gestalten, Vikariat",
+      "domain": ["Bildung"],
+      "start": "2016-09",
+      "end": "2017-02",
+      "highlights": [
+        "In einem halbjährigen Vikariat konzipierte ich einen zweiteiligen Projektunterricht. Der erste Teil war frontal geführt und die Lernenden erhielten eine Elektronik-Einführung im Schalplan lesen und löteten einen Pulsweitenmodulations-Regler (PWM) um DC-Motoren zu regulieren. In einem zweiten Teil wurden Upcycling-Objekte hergestellt. Diese wurden mit den DC-Motoren kombiniert und auf klangliche sowie kinetische Qualitäten untersucht."
+      ],
+      "tech": ["Elektronik", "Technisches Gestalten"]
+    },
+    {
+      "company": "Offene Jugendarbeit Wattwil",
+      "position": "Leiter Infrastruktur, Offene Kinderbaustelle",
+      "domain": ["Bildung", "Technischer Betrieb"],
+      "start": "2014-04",
+      "end": "2018-12",
+      "highlights": [
+        "Für die jährliche Betreuung von 400 Kindern konzipierte und konstruierte ich eine Outdoor-Werkstatt. Zusätzlich überwachte ich die Sicherheit der konstruierten Bauten und leitete die pädagogische Betreuung innerhalb der technischen Gestaltung. Ab 2017 war ich als selbständiger Freelance in einem Auftragsverhältnis engagiert "
+      ],
+      "tech": ["Technisches Gestalten"]
+    },
+    {
+      "company": "ETH Zürich",
+      "position": "Library Assistant Computer Science Library",
+      "domain": ["Administration"],
+      "start": "2012-04",
+      "end": "2014-12",
+      "highlights": [
+        "Unterstützung der Studierenden des Departements Informatik in ihrer Literatur-Recherche und Mithilfe in der Medienverwaltung"
+      ],
+      "tech": []
+    },
+    {
+      "company": "Primarschule Laufen-Uhwiesen",
+      "position": "Fachlehrer technisches Gestalten, Vikariat",
+      "domain": ["Bildung"],
+      "start": "2013-01",
+      "end": "2013-04",
+      "highlights": ["Stellvertretender Unterricht für 3 Monate bildnerisches und technisches Gestalten im Zyklus 2"],
+      "tech": ["Technisches Gestalten"]
+    },
+    {
+      "company": "Pädagogische Hochschule St. Gallen",
+      "position": "Immatrikulation Studium Sekundarstufe I",
+      "domain": ["Bildung"],
+      "start": "2008-09",
+      "end": "2010-02",
+      "highlights": [ 
+        "3 Semester Studium und erfolgreiche Absolvierung der Berufseignungsabklärung. Danach bin ich direkt in die Lehrtätigkeit eingestiegen und wurde an der Zürcher Hochschule der Künste sur Dossier aufgenommen."
+      ],
+      "tech": []
+    },
+    {
+      "company": "Primarschule Steinacker & Langwiesen, Winterthur",
+      "position": "Lehrperson / Heilpädagoge / Sozialpädagoge (Vikariat)",
+      "domain": ["Bildung"],
+      "start": "2010-03",
+      "end": "2014-11",
+      "highlights": [
+        "Während meiner Studienzeit führte ich während 421 Lektionen Unterricht in allen Primarschulfächern als Klassenlehrperson und im Teamteaching. Ich erhielt die Möglichkeit auch die Sozial- und Heilpädagogen stellvertretend zu ersetzen und konnte in Kleinklassen mit starken Defiziten in Sozial- und Selbstkompetenz prägende Erfahrungen machen. Auch leitete ich während eines Jahres die schulische Betreuung am Mittagstisch."
+      ],
+      "tech": ["Technisches Gestalten"]
+    },
+    {
+      "company": "Geberit Vertriebs AG, Bütschwil",
+      "position": "Customer Support",
+      "domain": ["Administration"],
+      "start": "2008-06",
+      "end": "2009-09",
+      "highlights": [
+        "Mitarbeit im Call Center Helpdesk für Kundenanfragen. Disponierung der Servicetechniker mit ERP-Software SAP. Für die Leitung des Innendienstes erstellte ich Datenauswertungen der SAP-Servicefälle und Nutzerverhalten mithilfe von Excel. Die Tätigkeit habe ich für eine 6 monatige Reise durch Australien und Indien unterbrochen."
+      ],
+      "tech": ["SAP"]
+    },
+    {
+      "company": "Zeit um Gitarre zu lernen",
+      "position": "Selbststudium",
+      "domain": ["Bildung"],
+      "start": "2008-01",
+      "end": "2008-06",
+      "highlights": [ 
+        "Ich besuchte abwechselnd drei verschiedene Gitarrenlehrer*innen. Reto Gioardano, Lütisburg für Bluesrock, Brigitte Schönenberger aus Bütschwil für Klassik und Stephan Schmid, Mosnang für Jazz. Später an der pädagogischen Hochschule belegte ich das Fach Musik mit Zwischenprüfungsnote 5."
+      ],
+      "tech": []
+    },
+    {
+      "company": "Raiffeisenbank Unteres Toggenburg, Bütschwil",
+      "position": "Bankfachmann",
+      "domain": ["Finance"],
+      "start": "2002-07",
+      "end": "2006-09",
+      "highlights": [
+        "Nach abgeschlossener Berufslehre mit Matura erledigte ich in meinem Lehrbetrieb ab 2006-04 im Back-Office den Zahlungsverkehr. Ich habe die Tätigkeit für 5 Monate unterbrochen, um eine Pflegepraktikum im Altersheim Horb zu machen und in Byron Bay Australien das Cambridge Advanced English Certificate zu erlangen."
+      ],
+      "tech": ["SIC"]
+    }
+  ]
+}
