@@ -7,21 +7,22 @@
   },
   "education": [
     {
-      "degree": "B. A. Art Education ZHdK",
-      "focus": "Ästhetische Bildung und Soziokultur mit Elektronik",
+      "degree": "B. A. Art Education, Zürcher Hochschule der Künste",
+      "focus": "Ästhetische Bildung und Soziokultur",
+      "thesis": "Vacuum Tube Verstärker Eigenbau"
       "grade": 5.5,
       "start": "2010",
       "end": "2013"
     },
     {
-      "degree": "Gymnasiale Ergänzungsprüfung",
+      "degree": "Gymnasiale Ergänzungsprüfung, ISME St. Gallen",
       "focus": "Physik",
       "grade": 4.8,
       "start": "2006",
       "end": "2007"
     },
     {
-      "degree": "Bankfachmann EFZ Berufsmatura",
+      "degree": "Bankfachmann EFZ Berufsmatura, BZ Wil",
       "grade": 5.1,
       "start": "2003",
       "end": "2005"
@@ -60,7 +61,7 @@
     "os": ["Windows", "Ubuntu Server", "Ubuntu", "ArchLinux", "WSL", "Raspberry Pi OS", "macOS"],
     "monitoring_observability": ["Prometheus", "Grafana", "Loki", "Alloy"],
     "networking_security": ["OPNsense", "WireGuard", "Twingate", "Traefik", "CrowdSec", "Pi-hole"],
-    "devops_tools": ["Docker Compose", "Git", "Neovim", ".env"],
+    "homelab_tools": ["Docker Compose", "Git", "Neovim", ".env"],
     "linux_administration": ["systemd", "LVM", "RAID5", "SSH", "tmux"],
     "self_hosted_cloud": ["Nextcloud", "MEGAcmd", "immich", "Home Assistant", "cubeSQL"]
   },
@@ -72,7 +73,7 @@
       "start": "2023-11",
       "end": null,
       "highlights": [
-        "Verantwortung des technischen Betriebs der Verwaltungssoftware und Webportalen sowie Koordination des Releasetestings. Troubleshooting, Workarounds und Incident-Analyse von Programmfehlern des Softwareherstellers im 1st/2nd Level Support. Analyse und Dokumentation der Produktiven Umgebung, API-Endpunkten und Services. Planung und Konfiguration einer Testumgebung. Technische Koordination mit Partnern von SOAP nach REST Schnittstellen. Entwicklung eines LogSearchTools und Monitoring-Skripten in PowerShell für eine zentralisierte Analyse von mehreren Windows-Logverzeichnissen."
+        "Verantwortung des technischen Betriebs der Verwaltungssoftware und Webportalen sowie Koordination des Releasetestings. Ad-hoc Reporting und SQL-Abfragen für Fachbereiche. Troubleshooting, Workarounds und Incident-Analyse von Programmfehlern des Softwareherstellers im 1st/2nd Level Support. Analyse und Dokumentation der Produktiven Umgebung, API-Endpunkten und Services. Planung und Konfiguration einer Testumgebung. Technische Koordination mit Partnern von SOAP nach REST Schnittstellen. Entwicklung eines LogSearchTools und Monitoring-Skripten in PowerShell für eine zentralisierte Analyse von mehreren Windows-Logverzeichnissen."
       ],
       "tech": ["SQL", "REST", "PowerShell", "VBA"]
     },
