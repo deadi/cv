@@ -68,7 +68,10 @@
       "Automatisierung",
       "Reporting",
       "Technischer Betrieb",
-      "Troubleshooting"
+      "Troubleshooting",
+      "Obsidian",
+      "Codex",
+      "Claude Code"
     ],
     "languages_scripting": ["SQL", "PowerShell", "Bash", "Python"],
     "os": ["Windows", "Ubuntu Server", "Ubuntu", "ArchLinux", "WSL", "Raspberry Pi OS", "macOS"],
