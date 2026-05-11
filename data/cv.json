@@ -5,6 +5,19 @@
     "location": "St. Gallen",
     "summary": "Applikationsbetreuer mit Fokus auf Schnittstellen, Automatisierung, Release Management, Monitoring/Observability (1st / 2nd Level Support, Incident-Analyse, Reporting). Praxis mit SQL, PowerShell. Privates Self-Hosting im Linux/Container-Umfeld."
   },
+  "socialmedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/adi-eberhard-632b88160/"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/deadi/"
+    },{
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/skiclub.toggenburg/"
+    },
+  ],
   "education": [
     {
       "degree": "B. A. Art Education, Zürcher Hochschule der Künste",
