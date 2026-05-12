@@ -7,4 +7,4 @@ generated via Claude Code Web UI
 `/data/cv.json`
 
 ## In Progress
-publishing `/data/index.html` from local subdomain to wwww.
+publishing `/data/index.html` from local subdomain to www.
