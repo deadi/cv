@@ -9,14 +9,18 @@
     {
       "platform": "LinkedIn",
       "url": "https://www.linkedin.com/in/adi-eberhard-632b88160/"
+    },    
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/skiclub.toggenburg/"
     },
     {
       "platform": "GitHub",
       "url": "https://github.com/deadi/"
     },
     {
-      "platform": "Instagram",
-      "url": "https://www.instagram.com/skiclub.toggenburg/"
+       "platform": "Email",
+      "url": "adi.eberhard@gmail.com"
     }
   ],
   "education": [
