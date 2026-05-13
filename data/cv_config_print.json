@@ -1,73 +1,70 @@
 {
   "_comment": "CV Konfiguration – nur Design, Layout und Avatar. Inhalt wird aus cv_source referenziert.",
-
   "cv_source": "cv.json",
-
   "avatar": {
-    "source":                "12-05-2026_11-28-26avatar.png",
-    "processed":             "avatar_circle.png",
-    "target_px":             307,
-    "crop_top_offset_ratio": 0.1,
-    "_comment":              "crop_top_offset_ratio: 0 = mittig, >0 = Crop nach oben (Gesicht zentrieren)"
+    "source": "12-05-2026_11-28-26avatar.png",
+    "processed": "avatar_circle.png",
+    "target_px": 307,
+    "crop_top_offset_ratio": 0,
+    "_comment": "Bild ist bereits zentriert (553x553px). Kein Crop-Offset nötig."
   },
-
   "design": {
     "screen": {
-      "bg_primary":       "#1A1B26",
-      "bg_secondary":     "#24283B",
-      "text_primary":     "#C0CAF5",
-      "text_inverse":     "#FFFFFF",
-      "accent_primary":   "#7AA2F7",
+      "bg_primary": "#1A1B26",
+      "bg_secondary": "#24283B",
+      "text_primary": "#C0CAF5",
+      "text_inverse": "#FFFFFF",
+      "accent_primary": "#7AA2F7",
       "accent_secondary": "#7DCFFF",
-      "success":          "#9ECE6A",
-      "muted":            "#565F89"
+      "success": "#9ECE6A",
+      "muted": "#565F89"
     },
     "print": {
-      "bg_primary":       "#FFFFFF",
-      "bg_secondary":     "#F4F4F4",
-      "text_primary":     "#1A1A1A",
-      "text_inverse":     "#FFFFFF",
-      "accent_primary":   "#2A5FBF",
+      "bg_primary": "#FFFFFF",
+      "bg_secondary": "#F4F4F4",
+      "text_primary": "#1A1A1A",
+      "text_inverse": "#FFFFFF",
+      "accent_primary": "#2A5FBF",
       "accent_secondary": "#1A4A8A",
-      "success":          "#2E7D32",
-      "muted":            "#666666"
+      "success": "#2E7D32",
+      "muted": "#666666"
     },
     "typography": {
-      "font_bold":         "JBM-Bold",
-      "font_regular":      "JBM",
-      "font_light":        "JBM-Light",
-      "font_medium":       "JBM-Medium",
-      "font_source":       "JetBrains Mono",
-      "size_name":         16,
-      "size_role":         9,
-      "size_tagline":      6.8,
-      "size_section":      7.5,
-      "size_role_entry":   7.2,
-      "size_company":      6.5,
-      "size_date":         6.0,
-      "size_desc":         6.3,
-      "size_tag":          5.6,
-      "size_social":       6.2
+      "font_bold": "JBM-Bold",
+      "font_regular": "JBM",
+      "font_light": "JBM-Light",
+      "font_medium": "JBM-Medium",
+      "font_source": "JetBrains Mono",
+      "size_name": 16,
+      "size_role": 9,
+      "size_tagline": 6.8,
+      "size_section": 7.5,
+      "size_role_entry": 7.2,
+      "size_company": 6.5,
+      "size_date": 6.0,
+      "size_desc": 6.3,
+      "size_tag": 5.6,
+      "size_social": 6.2
     },
     "layout": {
-      "page":          "A4",
-      "margin_left":   15,
-      "margin_right":  15,
-      "margin_top":    14,
+      "page": "A4",
+      "margin_left": 15,
+      "margin_right": 15,
+      "margin_top": 14,
       "header_height": 38,
-      "col1_width":    108,
-      "col_gap":       5,
+      "col1_width": 108,
+      "col_gap": 5,
       "avatar_radius": 13,
-      "bottom_limit":  12,
-      "units":         "mm"
+      "bottom_limit": 12,
+      "units": "mm"
     },
     "spacing": {
-      "skill_title_to_tags":  3,
-      "skill_tags_to_next":   7,
-      "social_line_gap":      6.5,
+      "skill_title_to_tags": 3,
+      "skill_tags_to_next": 7,
+      "social_line_gap": 6.5,
       "entry_divider_offset": 1.5,
-      "entry_divider_gap":    4,
-      "section_after":        4.5
+      "entry_divider_gap": 4,
+      "section_after": 4.5
     }
   }
 }
